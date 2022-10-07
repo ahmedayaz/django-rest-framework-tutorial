@@ -7,3 +7,6 @@ https://studygyaan.com/django/django-rest-framework-tutorial-register-login-logo
 
 ### Django REST Framework Tutorial – Change & Reset Password
 https://studygyaan.com/django/django-rest-framework-tutorial-change-password-and-reset-password
+
+
+django 3.1 , know, token based authentication
